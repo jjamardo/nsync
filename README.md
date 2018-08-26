@@ -1,4 +1,4 @@
-### NSync
+# NSync
 
 A very simple C# .NET Framework synchronizer using the WinSCP libray.
 
@@ -40,7 +40,7 @@ to enable and:
 
 to disable.
 
-# How to obtain the ssh fingerprint
+### How to obtain the ssh fingerprint
 
 ```bash
 # cd /etc/ssh/
