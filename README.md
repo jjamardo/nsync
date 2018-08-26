@@ -39,3 +39,11 @@ to enable and:
 ```
 
 to disable.
+
+# How to obtain the ssh fingerprint
+
+```bash
+# cd /etc/ssh/
+# ssh-keygen -l -f ssh_host_rsa_key
+2048 xx:xx:xx:xx:xx:xx:.... ssh_host_rsa_key.pub (RSA)
+```
